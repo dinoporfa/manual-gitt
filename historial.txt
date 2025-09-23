@@ -1,9 +1,1 @@
 "A"  
-<<<<<<< HEAD
-<<<<<<< HEAD
-"B"  
-"C"  
-=======
->>>>>>> parent of 1a1b3cf (B)
-=======
->>>>>>> parent of 1a1b3cf (B)
